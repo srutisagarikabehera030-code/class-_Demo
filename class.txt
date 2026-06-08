@@ -1,1 +1,3 @@
-my name is
+print("Hello Everyone")
+
+print("Sruti Sagarika")
